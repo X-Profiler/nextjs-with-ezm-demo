@@ -12,8 +12,8 @@
     "next": "15.3.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "xprofiler": "^3.0.0",
-    "xtransit": "^3.0.0"
+    "xprofiler": "^2.6.1",
+    "xtransit": "^2.6.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
