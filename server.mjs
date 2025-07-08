@@ -8,8 +8,8 @@ import { start as startXtransit } from "xtransit";
 startXprofiler();
 startXtransit({
   server: process.env.EZM_SERVER,
-  appId: process.env.EZ_APP_ID,
-  appSecret: process.env.EZ_APP_SECRET,
+  appId: process.env.EZM_APP_ID,
+  appSecret: process.env.EZM_APP_SECRET,
 });
 
 const port = parseInt(process.env.PORT || "3000", 10);

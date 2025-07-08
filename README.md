@@ -40,5 +40,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 https://www.yuque.com/hyj1991/easy-monitor/nextjs
 
 ```bash
-EZM_SERVER=ws://your-ezm-server:port EZ_APP_ID={EZ_APP_ID} EZ_APP_SECRET={EZ_APP_SECRET} npm start
+EZM_SERVER=ws://your-ezm-server:port EZM_APP_ID={EZM_APP_ID} EZM_APP_SECRET={EZM_APP_SECRET} npm start
 ```
